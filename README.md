@@ -1,3 +1,18 @@
+# PolygProjA 04/21/22
+This is my submission for Polygon Academy Module 2 challenge
+Slight modification --> from truffle to hardhat...
+
+HOW TO RUN THE SOLIDITY CONTRACT:
+From the root directory -- npx hardhat run scripts/deploy.ts --network mumbai (see sample env file)...
+
+HOW TO RUN THE FRONTEND:
+From the projaapp directory -- yarn start (for the challenge answer from the frontend portion).
+Search 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266 on polygonscan to see a test run
+
+Thank you 
+zen2see
+
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
@@ -44,9 +59,3 @@ npx hardhat verify --network ropsten DEPLOYED_CONTRACT_ADDRESS "Hello, Hardhat!"
 # Performance optimizations
 
 For faster runs of your tests and scripts, consider skipping ts-node's type checking by setting the environment variable `TS_NODE_TRANSPILE_ONLY` to `1` in hardhat's environment. For more details see [the documentation](https://hardhat.org/guides/typescript.html#performance-optimizations).
-# PolygProjA
-This is my submnission for Polygon Academy Module 2 challenge
-Slight modification from truffle to hardhat...
-From the root directory -- npx hardhat run scripts/deploy.ts --network mumbai (see sample env file)...
-From the projaapp directory -- yarn start (for the challenge answer from the frontend portion).
-Search 0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266 on polygonscan to see a test run
