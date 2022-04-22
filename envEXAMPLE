@@ -1,0 +1,10 @@
+INFURA_PID=
+INFURA_PROJECT_ID=
+PKUL=
+
+POLYGON_MAINET=https://polygon-mainnet.infura.io/v3/...
+POLYGON_MUMBAI=https://polygon-mumbai.infura.io/v3/...
+
+RUN_COVERAGE='0'
+
+REPORT_GAS="false"
